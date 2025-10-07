@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\finaldashboard1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\finaldashboard1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\finaldashboard1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\finaldashboard1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\managestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\managestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\accountantstaffsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\accountantstaffsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\accountantstaffsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\accountantstaffsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\accountantfees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\accountantfees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|d:\\aiub pdf 6th samester\\oop2\\c# code\\final project\\umssln\\ums\\accountantfees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\accountantfees1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\librarianissuereturn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\librarianissuereturn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\librarianissuereturn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\librarianissuereturn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\managestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\managestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\librariandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\librariandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\librariandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\librariandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\full view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\full view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\ums\\full view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B65C68-9E4B-4BCB-810A-37BDF8830760}|UMS\\UMS.csproj|solutionrelative:ums\\full view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "manageStaff.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\manageStaff.cs",
+              "RelativeDocumentMoniker": "UMS\\manageStaff.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\manageStaff.cs",
+              "RelativeToolTip": "UMS\\manageStaff.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA9wPcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:13:13.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "manageStaff.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\manageStaff.cs",
+              "RelativeDocumentMoniker": "UMS\\manageStaff.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\manageStaff.cs [Design]",
+              "RelativeToolTip": "UMS\\manageStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:56:03.826Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\UserHelper.cs",
+              "RelativeDocumentMoniker": "UMS\\UserHelper.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\UserHelper.cs",
+              "RelativeToolTip": "UMS\\UserHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:43:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalDashBoard1.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\FinalDashBoard1.cs",
+              "RelativeDocumentMoniker": "UMS\\FinalDashBoard1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\FinalDashBoard1.cs",
+              "RelativeToolTip": "UMS\\FinalDashBoard1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawFQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:30:37.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalDashBoard1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\FinalDashBoard1.cs",
+              "RelativeDocumentMoniker": "UMS\\FinalDashBoard1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\FinalDashBoard1.cs [Design]",
+              "RelativeToolTip": "UMS\\FinalDashBoard1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:28:03.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Accountant.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Accountant.cs",
+              "RelativeDocumentMoniker": "UMS\\Accountant.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Accountant.cs",
+              "RelativeToolTip": "UMS\\Accountant.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA5wCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:12:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Accountant.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Accountant.cs",
+              "RelativeDocumentMoniker": "UMS\\Accountant.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Accountant.cs [Design]",
+              "RelativeToolTip": "UMS\\Accountant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:11:24.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountantStaffSalary.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantStaffSalary.cs",
+              "RelativeDocumentMoniker": "UMS\\AccountantStaffSalary.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantStaffSalary.cs",
+              "RelativeToolTip": "UMS\\AccountantStaffSalary.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAKkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:20:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountantStaffSalary.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantStaffSalary.cs",
+              "RelativeDocumentMoniker": "UMS\\AccountantStaffSalary.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantStaffSalary.cs [Design]",
+              "RelativeToolTip": "UMS\\AccountantStaffSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:02:23.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountantFees1.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantFees1.cs",
+              "RelativeDocumentMoniker": "UMS\\AccountantFees1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantFees1.cs",
+              "RelativeToolTip": "UMS\\AccountantFees1.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwJkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:12:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountantFees1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantFees1.cs",
+              "RelativeDocumentMoniker": "UMS\\AccountantFees1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\AccountantFees1.cs [Design]",
+              "RelativeToolTip": "UMS\\AccountantFees1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:11:44.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Librarian.cs",
+              "RelativeDocumentMoniker": "UMS\\Librarian.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Librarian.cs",
+              "RelativeToolTip": "UMS\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:32:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Librarian.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Librarian.cs",
+              "RelativeDocumentMoniker": "UMS\\Librarian.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Librarian.cs [Design]",
+              "RelativeToolTip": "UMS\\Librarian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:23:46.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibrarianIssueReturn1.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianIssueReturn1.cs",
+              "RelativeDocumentMoniker": "UMS\\LibrarianIssueReturn1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianIssueReturn1.cs",
+              "RelativeToolTip": "UMS\\LibrarianIssueReturn1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:52:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibrarianIssueReturn1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianIssueReturn1.cs",
+              "RelativeDocumentMoniker": "UMS\\LibrarianIssueReturn1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianIssueReturn1.cs [Design]",
+              "RelativeToolTip": "UMS\\LibrarianIssueReturn1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:29:42.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\DbHelper.cs",
+              "RelativeDocumentMoniker": "UMS\\DbHelper.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\DbHelper.cs",
+              "RelativeToolTip": "UMS\\DbHelper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:02:39.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibrarianDashBoard.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianDashBoard.cs",
+              "RelativeDocumentMoniker": "UMS\\LibrarianDashBoard.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianDashBoard.cs",
+              "RelativeToolTip": "UMS\\LibrarianDashBoard.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:42:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LibrarianDashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianDashBoard.cs",
+              "RelativeDocumentMoniker": "UMS\\LibrarianDashBoard.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\LibrarianDashBoard.cs [Design]",
+              "RelativeToolTip": "UMS\\LibrarianDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:58:04.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Program.cs",
+              "RelativeDocumentMoniker": "UMS\\Program.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Program.cs",
+              "RelativeToolTip": "UMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:56:16.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Full view.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Full view.cs",
+              "RelativeDocumentMoniker": "UMS\\Full view.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Full view.cs",
+              "RelativeToolTip": "UMS\\Full view.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:02:02.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Full view.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Full view.cs",
+              "RelativeDocumentMoniker": "UMS\\Full view.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Full view.cs [Design]",
+              "RelativeToolTip": "UMS\\Full view.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:45:34.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Form1.cs",
+              "RelativeDocumentMoniker": "UMS\\Form1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Form1.cs",
+              "RelativeToolTip": "UMS\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIAwwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:35:21.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Registration.cs",
+              "RelativeDocumentMoniker": "UMS\\Registration.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Registration.cs",
+              "RelativeToolTip": "UMS\\Registration.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwF8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:52:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Registration.cs",
+              "RelativeDocumentMoniker": "UMS\\Registration.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Registration.cs [Design]",
+              "RelativeToolTip": "UMS\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:47:47.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Form1.cs",
+              "RelativeDocumentMoniker": "UMS\\Form1.cs",
+              "ToolTip": "D:\\AIUB PDF 6th samester\\OOP2\\C# Code\\Final project\\UMSSLN\\UMS\\Form1.cs [Design]",
+              "RelativeToolTip": "UMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:26:26.779Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
